@@ -1,7 +1,10 @@
 # ascella
 
 To install from this bucket, run:
-`scoop bucket add ascella https://github.com/bluereflega/ascella.git`
+
+```
+scoop bucket add ascella https://github.com/bluereflega/ascella.git
+```
 
 ## Apps
 
